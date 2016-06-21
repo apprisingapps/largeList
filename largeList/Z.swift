@@ -1,0 +1,11 @@
+//
+//  Z.swift
+//  ticTalk
+//
+//  Created by Michael Peloquin on 2/7/16.
+//  Copyright © 2016 Ian Hanson. All rights reserved.
+//
+
+import UIKit
+
+let Z = ["Z": ["zoo", "Z", "zip", "zap", "zit", "zig", "zen", "zag", "zone", "zero", "zest", "zinc", "zeal", "zoos", "zoom", "zany", "zips", "zing", "zits", "zags", "Zealand", "Zurich", "zones", "zoning", "zucchini", "zipper", "zionist", "zombie", "zebra", "zulu", "zenith", "zealous", "zipped", "zombies", "zippers", "zoomed", "zionism", "zealots", "zooming", "zodiac", "zipping", "zero-sum", "zigzag", "zooms", "zionists", "zoological", "zeitgeist", "zoology", "zeroed", "zeros", "zebras", "zeroing", "zealot", "zulus", "zimbabwean", "zip-top", "zesty", "zigzagging", "zealously", "zooplankton", "zippered", "zillion", "zoologist", "zero-tolerance", "zeppelin", "zodiacal", "zoned", "zippy", "zinnias", "zambian", "zilch", "zairian", "zookeeper", "zillions", "zapped", "zydeco", "zapping", "zimbabweans", "zigzagged", "zero-order", "zine", "zirconium", "zeroes", "zoonotic", "zealotry", "zaps", "zigzags", "zygote", "zoot", "zapper", "zero-point", "zoologists", "zinger", "zero-g", "zeaxanthin", "zephyr", "zingers", "zither", "zonal", "zambians", "zero-coupon", "ziggurat", "zircon", "zinging", "zeppelins", "zines", "zipper-lock", "z-scores", "zookeepers", "zairean", "zip-lock", "zoroastrian", "zero-emission", "zero-gee", "zingy", "zoomorphic", "zip-up", "zinnia", "ziplock", "zidovudine", "zoroastrians", "zaibatsu", "zombie-like", "zig-zag", "zebrafish", "zoster", "zakat", "zinged", "zenlike", "zero-gravity", "zygotes", "zings", "zealousness", "zebu", "zoysia", "zircons", "zucchinis", "zappers", "zigs", "zoroastrianism", "zonas", "zebra-striped", "zig-zagging", "zirconia", "z-score", "zero-energy", "zagged", "zygomatic", "zenithal", "zester", "zillionaire", "zulu-speaking", "zero-based", "zairians", "zigged", "zaniness", "zephyrs", "zero-degree", "zooids", "zagging", "zip-off", "zigging", "zestful", "zero-turn", "zests", "zebra-print", "zillionth", "zero-emissions", "zoomable", "zere", "zombielike", "zonation", "zeolite", "z-axis", "zazen", "zonked"]]
